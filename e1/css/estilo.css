@@ -1,0 +1,52 @@
+.body{
+    background-color: chocolate;
+    margin: 50px;
+    padding: 50px;
+}
+#contenedor{
+    background-color: lightblue;
+   
+    width: 300px;
+    height: 500px;
+    display: inline-block;
+}
+.bloque,.bloque2,.bloque3{
+    background-color: rgba(255, 166, 0, 0.589);
+    width: 250px;
+    height: 450px;
+    margin: 20px;
+    
+}
+.cuadros{
+    background-color: coral;
+    
+    display: inline-block;
+    margin-left: auto;
+    margin-top: auto;
+    width: 50px;
+    height: 50px;
+    
+}
+.cuadros2{
+    background-color: coral;
+    margin-top: 5px;
+    width: 150px;
+    height: 30px;
+    
+}
+.cuadros{
+    background-color: coral;
+    display: inline-block;
+    margin-left: auto;
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+}
+.cuadros3{
+    background-color: rgb(44, 27, 20);
+    display: inline-block;
+    margin-left: auto;
+    margin-top: auto;
+    width: 50px;
+    height: 50px;
+}
